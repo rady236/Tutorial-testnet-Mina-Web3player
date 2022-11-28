@@ -10,3 +10,8 @@ Mina Faucet
 Server Discord
 
 Registration form
+Hardware & software specifications
+Software/OS requirements
+Component	Minimum specifications
+Operating system	Ubuntu 16.04 or higher
+Setup
